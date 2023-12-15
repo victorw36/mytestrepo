@@ -6,10 +6,14 @@ public class Main {
     }
 
     public static String imgay() {
-        return "im gay";
+        return "im not gay";
     }
 
     public static void yay() {
         System.out.println("aera");
+    }
+
+    public static void aosdio() {
+        System.out.println("Waajbfajbsjb");
     }
 }
