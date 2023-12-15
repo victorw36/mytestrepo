@@ -10,6 +10,6 @@ public class Main {
     }
 
     public static void yay() {
-        System.out.println("aa");
+        System.out.println("aera");
     }
 }
