@@ -8,4 +8,8 @@ public class Main {
     public static String imgay() {
         return "im gay";
     }
+
+    public static void yay() {
+        System.out.println("aa");
+    }
 }
