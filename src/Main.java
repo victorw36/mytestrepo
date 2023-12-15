@@ -4,4 +4,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("another class");
     }
+
+    public static String imgay() {
+        return "im gay";
+    }
 }
