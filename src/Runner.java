@@ -3,6 +3,6 @@ public class Runner {
         System.out.print("hello");
         System.out.println("p1 p2 p3 p4 p5 p6");
         System.out.println("Andre");
-        System.out.println("bob");
+        System.out.println("ligmab");
     }
 }
