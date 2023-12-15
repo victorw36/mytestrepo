@@ -12,4 +12,7 @@ public class Main {
     public static void yay() {
         System.out.println("aera");
     }
+    public static void lol() {
+        System.out.println ("lol");
+    }
 }
